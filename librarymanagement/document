@@ -1,1 +1,32 @@
 
+IBRARY MANAGEMENT SYSTEM(REVISION 1.0)
+SCOPE:
+•	Libraries rely on library management systems to manage asset collections as well as relationships with their members.
+•	It help libraries keep track of the books and their checkouts, as well as members’ profiles.
+•	It also involve maintaining the database for entering new books and recording books that have been borrowed with their respective due dates.
+
+MODULES:
+
+•	Add/Remove/Edit book: To add, remove or modify a book or book item.
+•	Search catalog: To search books by title, author, subject or publication date.
+•	Register new account/cancel membership: To add a new member or cancel the membership of an existing member.
+•	Check-out book: To borrow a book from the library.
+•	Reserve book: To reserve a book which is not currently available.
+•	Return a book: To return a book to the library which was issued to a member.
+
+ROLES:
+•	Librarian: Mainly responsible for adding and modifying books, book items, and users. The Librarian can also issue, reserve, and return book items.
+•	Member: All members can search the catalog, as well as check-out, reserve and return a book
+
+ SOFTWARE TOOLS:
+•	Java 
+•	Html and css
+•	Sql/mongo db
+•	Angular
+•	Javascript /typescript
+•	Spring and hibernate
+
+
+
+
+
